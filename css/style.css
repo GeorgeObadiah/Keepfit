@@ -68,7 +68,7 @@ html, body {
 }
 
 .navbar-toggle .icon-bar {
-  background: rgb(245, 99, 75);
+  background: rgb(175, 141, 135);
 }
 
 input[type=email], input[type=password], input[type=text], input[type=tel] {
@@ -79,7 +79,7 @@ input[type=email], input[type=password], input[type=text], input[type=tel] {
 }
 input[type=email]:focus, input[type=password]:focus, input[type=text]:focus, input[type=tel]:focus {
   box-shadow: none;
-  border: 1px solid rgb(245, 99, 75);
+  border: 1px solid rgb(175, 141, 135);
 }
 
 .form-control {
@@ -88,7 +88,7 @@ input[type=email]:focus, input[type=password]:focus, input[type=text]:focus, inp
 }
 .form-control:focus {
   box-shadow: none;
-  border: 1px solid rgb(245, 99, 75);
+  border: 1px solid rgb(175, 141, 135);
 }
 
 .btn {
@@ -104,23 +104,23 @@ input[type=email]:focus, input[type=password]:focus, input[type=text]:focus, inp
 }
 
 .btn-main, .btn-small, .btn-transparent {
-  background: linear-gradient(90deg, rgb(245, 99, 75) 0%, #008080 100%);
+  background: linear-gradient(90deg, rgb(198, 169, 164) 0%, #008080 100%);
   color: #fff;
 }
 .btn-main:hover, .btn-small:hover, .btn-transparent:hover {
-  background: linear-gradient(90deg, #008080 0%, rgb(245, 99, 75) 100%);
+  background: linear-gradient(90deg, #008080 0%, rgb(175, 141, 135) 100%);
   color: #fff !important;
   transform: translateY(-5px);
 }
 
 .btn-solid-border {
-  border: 2px solid rgb(245, 99, 75);
+  border: 2px solid rgb(160, 136, 132);
   background: transparent;
   color: #fff;
 }
 .btn-solid-border:hover {
-  border: 2px solid rgb(245, 99, 75);
-  background: rgb(245, 99, 75);
+  border: 2px solid rgb(182, 163, 160);
+  background: rgb(182, 154, 149);
 }
 
 .btn-white {
@@ -129,19 +129,19 @@ input[type=email]:focus, input[type=password]:focus, input[type=text]:focus, inp
   color: #232323;
 }
 .btn-white:hover {
-  border: 1px solid rgb(245, 99, 75);
-  background: rgb(245, 99, 75);
+  border: 1px solid rgb(175, 141, 135);
+  background: rgb(175, 141, 135);
   color: #fff !important;
 }
 
 .btn-transparent {
   background: transparent;
   padding: 0;
-  color: rgb(245, 99, 75);
+  color: rgb(175, 141, 135);
 }
 .btn-transparent:hover {
   background: transparent;
-  color: rgb(245, 99, 75);
+  color: rgb(175, 141, 135);
 }
 
 .btn-large {
@@ -181,7 +181,7 @@ input[type=email]:focus, input[type=password]:focus, input[type=text]:focus, inp
 }
 
 .bg-primary {
-  background: rgb(245, 99, 75) !important;
+  background: rgb(175, 141, 135) !important;
 }
 
 .section {
@@ -241,7 +241,7 @@ input[type=email]:focus, input[type=password]:focus, input[type=text]:focus, inp
 }
 
 .text-color {
-  color: rgb(245, 99, 75);
+  color: rgb(175, 141, 135);
 }
 
 .text-black {
@@ -271,7 +271,7 @@ a {
 }
 
 a:hover, a:focus {
-  color: rgb(245, 99, 75) !important;
+  color: rgb(175, 141, 135) !important;
   text-decoration: none !important;
   outline: 0;
 }
@@ -300,7 +300,7 @@ a:hover, a:focus {
   transition: all 0.25s ease;
 }
 .navbar-nav .nav-link:hover, .navbar-nav .nav-link:focus {
-  color: rgb(245, 99, 75);
+  color: rgb(175, 141, 135);
 }
 
 .top-header {
@@ -353,7 +353,7 @@ a:hover, a:focus {
 
 .dropdown-item:hover {
   background: transparent;
-  color: rgb(245, 99, 75);
+  color: rgb(175, 141, 135);
 }
 
 ul.dropdown-menu li {
@@ -443,8 +443,8 @@ ul.dropdown-menu li {
   width: 100%;
   height: 0px;
   transition: all 600ms ease;
-  background: linear-gradient(90deg, rgb(245, 99, 75) 0%, #fe9418 100%);
-  border-color: rgb(245, 99, 75);
+  background: linear-gradient(90deg, rgb(126, 124, 123) 0%, #00827f 100%);
+  border-color: rgb(175, 141, 135);
 }
 .hover-style-1 h3, .hover-style-1 p, .hover-style-1 a, .hover-style-1 i, .hover-style-1 h4 {
   position: relative;
@@ -473,7 +473,7 @@ ul.dropdown-menu li {
 }
 
 .course .card-body a h4:hover {
-  color: rgb(245, 99, 75);
+  color: rgb(175, 141, 135);
 }
 
 .course-widget li a {
@@ -485,7 +485,7 @@ ul.dropdown-menu li {
   color: #fff;
 }
 .team-content-overlay li a:hover {
-  background: rgb(245, 99, 75);
+  background: rgb(175, 141, 135);
 }
 
 .team-item .card-body {
@@ -545,14 +545,14 @@ ul.dropdown-menu li {
   padding-top: 6px;
 }
 .team-wrap ul li a:hover {
-  background: rgb(245, 99, 75);
-  border-color: rgb(245, 99, 75);
+  background: rgb(175, 141, 135);
+  border-color: rgb(175, 141, 135);
   color: #fff !important;
 }
 
 .divider {
   margin: 0 auto;
-  background: rgb(245, 99, 75);
+  background: rgb(175, 141, 135);
   width: 45px;
   height: 4px;
 }
@@ -571,7 +571,7 @@ ul.dropdown-menu li {
 }
 
 .slick-dots li.slick-active button::before {
-  color: rgb(245, 99, 75);
+  color: rgb(175, 141, 135);
 }
 
 .slick-dots li button::before {
@@ -617,7 +617,7 @@ ul.dropdown-menu li {
   font-weight: 700;
 }
 .blog .card a h4:hover {
-  color: rgb(245, 99, 75);
+  color: rgb(175, 141, 135);
 }
 
 .blog-post-meta span {
@@ -660,8 +660,8 @@ ul.dropdown-menu li {
   color: #232323;
 }
 .pagination .page-item.active .page-link {
-  background-color: rgb(245, 99, 75);
-  border-color: rgb(245, 99, 75);
+  background-color: rgb(175, 141, 135);
+  border-color: rgb(175, 141, 135);
   color: #fff !important;
 }
 .pagination .page-item:last-child .page-link {
@@ -717,7 +717,7 @@ ul.dropdown-menu li {
   font-size: 14px;
 }
 .footer-menu li a:hover {
-  color: rgb(245, 99, 75);
+  color: rgb(175, 141, 135);
   opacity: 1;
 }
 
